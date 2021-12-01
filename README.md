@@ -5,3 +5,8 @@
   With the skills I have harnessed over the years, I wish to use them to build connections, learn, and create for a better future. 
     
   Check out my portfolio here --> https://william-gotterer.netlify.app/
+
+
+TECHNOLOGIES
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
