@@ -5,6 +5,11 @@
   With the skills I have harnessed over the years, I wish to use them to build connections, learn, and create for a better future. 
     
   Check out my portfolio here --> https://william-gotterer.netlify.app/
+  
+  About me... Currently trying to break the record for most consecutive pullups while hula hooping
+  https://user-images.githubusercontent.com/88294702/213794108-dd92155b-0469-4512-bbbd-bc32a3c72998.MOV
+
+
 
 
 TECHNOLOGIES
